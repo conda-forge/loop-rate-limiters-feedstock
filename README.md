@@ -9,7 +9,7 @@ Package license: Apache-2.0
 
 Summary: Loop rate limiters.
 
-Development: https://github.com/stephane-caron/loop-rate-limiters
+Development: https://github.com/tasts-robots/loop-rate-limiters
 
 Current build status
 ====================

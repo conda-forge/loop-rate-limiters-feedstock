@@ -37,7 +37,7 @@ test:
 about:
   home: https://pypi.org/project/loop-rate-limiters/
   summary: Loop rate limiters.
-  dev_url: https://github.com/stephane-caron/loop-rate-limiters
+  dev_url: https://github.com/tasts-robots/loop-rate-limiters
   license: Apache-2.0
   license_file: LICENSE
 
