@@ -1,13 +1,13 @@
 {% set name = "loop-rate-limiters" %}
-{% set version = "0.6.0" %}
+{% set version = "0.6.1" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: 56ddfb14fbf77b8d85b1855a26c0294fc85e17ccb0df9e6b59682ee165a8d177
+  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
+  sha256: 8446ed5cdd0614929b542a8ad9918eddb12398fc6bd38afa0922242676db96ce
 
 build:
   noarch: python
