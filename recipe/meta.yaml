@@ -28,6 +28,7 @@ test:
   requires:
     - pip
     - pytest
+    - pytest-asyncio
     - python {{ python_min }}
   source_files:
     - tests
